@@ -1,0 +1,16 @@
+Subject: Using Active Directory as a RADIUS Server
+
+Dear IT Team,
+
+I am Hyder Zaman, and I have 10 years of experience in the field of Information Technology. I have knowledge related to MikroTik and FreeRADIUS servers on Linux, but today I would like to share how to use Microsoft Active Directory (AD) as a RADIUS server.
+
+If you have experience with AD, that’s great! Now, you just need to install an additional feature called NPAS (Network Policy and Access Services). It is a powerful feature in Microsoft that, once installed correctly (as shown in the image in my GitHub repository), enables you to configure AD as a RADIUS server.
+
+Here are the details of my setup:
+
+AD IP address: 172.16.0.251
+MikroTik IP: 172.16.0.1/24
+Feel free to reach out if you need further clarification.
+
+Best regards,
+Hyder Zaman
